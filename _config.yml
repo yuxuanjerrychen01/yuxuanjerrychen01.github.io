@@ -188,13 +188,10 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
   - vendor
-  - _books/
-  - _pages/cv.md
 keep_files:
   - CNAME
   - .nojekyll
