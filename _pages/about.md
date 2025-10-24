@@ -29,3 +29,5 @@ My current research interests center on enhancing learning experiences in introd
 I am the cofounder of [AristAI](https://aristai.io/), an AI Teaching Assistant designed to assist course instructors by accurately and promptly answering student questions and efficiently managing student queries on their behalf.
 
 In my spare time, I enjoy bouldering, playing table tennis, listening to music, hanging out with friends, or just sleeping. I’m a huge fan of Coldplay, Avicii, and Kygo.
+
+Here is my [CV](assets\pdf\Yuxuan-Chen-CV-2025.08.22.pdf).
