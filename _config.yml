@@ -189,6 +189,7 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/dropdown.md
+  - _pages/blog.md
 keep_files:
   - CNAME
   - .nojekyll
