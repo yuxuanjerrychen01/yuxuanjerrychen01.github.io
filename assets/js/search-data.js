@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "news-happy-to-announce-that-aristai-was-awarded-a-10-000-prize-at-the-2024-cozad-new-venture-challenge",
           title: 'Happy to announce that AristAI was awarded a $10,000 prize at the 2024...',
           description: "",
@@ -63,13 +56,6 @@ ninja.data = [{
           window.open("mailto:%79%75%78%75%61%6E%31%39@%69%6C%6C%69%6E%6F%69%73.%65%64%75", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/yuxuanjerrychen01", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -82,6 +68,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0009-0009-2159-8746", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/yuxuanjerrychen01", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=90TwyKQAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
