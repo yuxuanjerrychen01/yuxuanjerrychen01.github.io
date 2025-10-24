@@ -20,11 +20,6 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  # limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a Master of Science student in the Siebel School of Computing and Data Science at the University of Illinois Urbana-Champaign (UIUC) as of Fall 2024. My interests are at the intersections of Human-Computer Interaction and AI in education. I am a part of the [Computing Education Research Area](https://siebelschool.illinois.edu/research/areas/computers-and-education) at UIUC, and my advisor is [Mariana Silva](https://mfsilva22.github.io/).
