@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "news-i-recieved-the-outstanding-course-assistant-award-for-fall-2023-semester-as-course-assistant-for-cs-357-at-the-university-of-illinois-urbana-champaign",
-          title: 'I recieved the Outstanding Course Assistant Award for Fall 2023 semester as course...',
+        },{id: "news-i-received-the-outstanding-course-assistant-award-for-fall-2023-semester-as-course-assistant-for-cs-357-at-the-university-of-illinois-urbana-champaign",
+          title: 'I received the Outstanding Course Assistant Award for Fall 2023 semester as course...',
           description: "",
           section: "News",},{id: "news-happy-to-announce-that-aristai-was-awarded-a-10-000-prize-at-the-2024-cozad-new-venture-challenge",
           title: 'Happy to announce that AristAI was awarded a $10,000 prize at the 2024...',
