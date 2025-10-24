@@ -400,16 +400,16 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+      },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-attended-my-first-sigcse-ts-conference-coauthored-paper-on-teaching-novices-computational-thinking-by-utilizing-llms-within-assessments-was-accepted-to-sigcse-ts-2025",
+          title: 'I attended my first SIGCSE TS conference! Coauthored paper on teaching novices computational...',
+          description: "",
+          section: "News",},{id: "news-i-presented-a-paper-on-a-cs1-course-redesign-for-engineering-students-at-asee-2025-i-also-moderated-a-paper-session",
+          title: 'I presented a paper on a CS1 course redesign for engineering students at...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
