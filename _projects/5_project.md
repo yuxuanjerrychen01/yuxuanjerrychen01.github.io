@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bouldering
-description: Currently at V3
+description: Currently at V3~V4
 img: assets/img/ub.jpg
 importance: 3
 category: fun
