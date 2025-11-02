@@ -48,7 +48,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-bouldering",
           title: 'Bouldering',
-          description: "Currently at V3",
+          description: "Currently at V3~V4",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
             },},{
