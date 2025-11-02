@@ -9,7 +9,11 @@ category: fun
 
 ## What is bouldering?
 
-Bouldering is a form of rock climbing that involves climbing short walls without ropes. The main focus is on power, technique, and problem-solving, and less on speed or endurance (though I agree that endurance is key to some difficult levels!). There are thick crash pads for protection and safe landing. I was introduced to bouldering on Mar 13, 2025. I think it is super fun.
+Bouldering is a form of rock climbing that involves climbing short walls (roughly 10–15 feet high) without ropes. There are thick crash pads for protection and safe landing. Bouldering problems generally use the [V-scale](<https://en.wikipedia.org/wiki/Grade_(climbing)#V-grade>) to represent level of difficulty.
+
+## My bouldering experience
+
+I was introduced to bouldering on Mar 13, 2025. I remember
 
 <!-- The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
