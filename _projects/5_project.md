@@ -36,12 +36,20 @@ I took a full week to recover. Well, back to bouldering again.
 
 #### Apr 17, 2025
 
-I was able to comfortably finish several V1 problems. I need to improve my stamina. I need steadier pacing and cleaner breathing between attempts.
+I was able to comfortably finish several V1 problems. I need to improve my stamina. I need steadier pacing and breathing between attempts.
 
 #### May 1, 2025
 
-First successful V2. I improved my foot placement and hand positioning.
+First successful V2! I improved my foot placement and hand positioning.
 
 #### Jun 3, 2025
 
-First successful V3!
+First successful V3! A sloper is a specific hand hold that is smooth and round and slippery. I hate slopers.
+
+#### Aug 14, 2025
+
+Able to comfortably finish several V3s, but getting shut down by the power-heavy ones. I need to build my finger strength and core tension.
+
+#### Oct 31, 2025
+
+First successful V4!
