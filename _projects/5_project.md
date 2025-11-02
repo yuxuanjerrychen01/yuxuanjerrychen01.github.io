@@ -24,12 +24,24 @@ Bouldering is a form of rock climbing that involves climbing short walls (roughl
 
 #### Mar 13, 2025
 
-I was introduced to bouldering. I tried out some V0 problems, got stuck on a specific V0, and failed significantly. I discovered new muscles by the simple method of trying to get out of bed the next day. I took a full week to recover.
+I was introduced to bouldering. I tried out some V0 problems, got stuck on a specific V0, and failed significantly.
+
+#### Mar 14, 2025
+
+I discovered new muscles by the simple method of trying to get out of bed.
+
+#### Mar 20, 2025
+
+I took a full week to recover. Well, back to bouldering again.
 
 #### Apr 17, 2025
 
-I was able to comfortably finish several V1 problems. I need to improve my stamina.
+I was able to comfortably finish several V1 problems. I need to improve my stamina. I need steadier pacing and cleaner breathing between attempts.
 
 #### May 1, 2025
 
 First successful V2. I improved my foot placement and hand positioning.
+
+#### Jun 3, 2025
+
+First successful V3!
