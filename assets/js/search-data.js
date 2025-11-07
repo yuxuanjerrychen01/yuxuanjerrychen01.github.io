@@ -41,12 +41,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-a-paper-on-a-cs1-course-redesign-for-engineering-students-at-asee-2025-i-also-moderated-a-paper-session",
           title: 'I presented a paper on a CS1 course redesign for engineering students at...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-bouldering",
+          section: "News",},{id: "projects-bouldering",
           title: 'Bouldering',
           description: "Currently at V3~V4",
           section: "Projects",handler: () => {
