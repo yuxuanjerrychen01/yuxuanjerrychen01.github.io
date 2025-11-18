@@ -30,4 +30,4 @@ I am the cofounder of [AristAI](https://aristai.io/), an AI Teaching Assistant d
 
 In my spare time, I enjoy bouldering, playing table tennis, listening to music, hanging out with friends, or just sleeping. I’m a huge fan of Coldplay, Avicii, and Kygo.
 
-Here is my [CV](assets\pdf\Yuxuan-Chen-CV-2025.11.11.pdf).
+Here is my [CV](assets\pdf\Yuxuan-Chen-CV-2025.11.17.pdf).
