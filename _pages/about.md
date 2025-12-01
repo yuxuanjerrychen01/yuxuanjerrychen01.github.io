@@ -26,8 +26,8 @@ I am a Master of Science student in the Siebel School of Computing and Data Scie
 
 My current research interests center on enhancing learning experiences in introductory CS courses for engineering students. I am exploring the integration of LLMs to generate erroneous programming examples in CS1 context. In addition, I am designing learner-centered educational tools to support undergraduate conversational programmers.
 
-I am the cofounder of [AristAI](https://aristai.io/), an AI Teaching Assistant designed to assist course instructors by accurately and promptly answering student questions and efficiently managing student queries on their behalf.
+I am the cofounder of [AristAI](https://aristai.io/), a startup focusing on building AI tools that help instructors manage large classes and improve accessibility. We have designed an AI tutor that can be trained on course materials to answer student questions more accurately and reduce instructor workload. We are now developing AI accessibility tools for documents and webpages to help instructors meet accessibility requirements at scale.
 
 In my spare time, I enjoy bouldering, playing table tennis, listening to music, hanging out with friends, or just sleeping. I’m a huge fan of Coldplay, Avicii, and Kygo.
 
-Here is my [CV](assets\pdf\Yuxuan-Chen-CV-2025.11.17.pdf).
+Here is my [CV](assets\pdf\Yuxuan-Chen-CV.pdf).
