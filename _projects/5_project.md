@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bouldering
-description: Currently at V3~V4
+description: Currently at V4
 img: assets/img/ub.jpg
 importance: 3
 category: fun
@@ -53,3 +53,7 @@ Able to comfortably finish several V3s, but getting shut down by the power-heavy
 #### Oct 31, 2025
 
 First successful V4!
+
+#### Feb 10, 2025
+
+Able to deliver several V4s now. I have been training my grip hold.
