@@ -46,7 +46,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-bouldering",
           title: 'Bouldering',
-          description: "Currently at V3~V4",
+          description: "Currently at V4",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
             },},{
