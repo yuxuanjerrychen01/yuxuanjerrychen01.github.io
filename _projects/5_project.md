@@ -54,6 +54,6 @@ Able to comfortably finish several V3s, but getting shut down by the power-heavy
 
 First successful V4!
 
-#### Feb 10, 2025
+#### Feb 10, 2026
 
 Able to deliver several V4s now. I have been training my grip hold.
