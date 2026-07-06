@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First author paper "On Generating and Validating Erroneous Examples in CS1 using LLMs" has been accepted to AIED 2026!
+First author [paper](https://doi.org/10.1007/978-3-032-29760-0_14) "On Generating and Validating Erroneous Examples in CS1 using LLMs" has been accepted to AIED 2026!
