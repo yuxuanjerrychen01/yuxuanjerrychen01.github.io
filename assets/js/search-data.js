@@ -44,7 +44,7 @@ ninja.data = [{
           section: "News",},{id: "news-poster-on-exploring-llms-for-generating-erroneous-examples-in-cs1-has-been-accepted-to-sigcse-ts-2026",
           title: 'Poster on exploring LLMs for generating erroneous examples in CS1 has been accepted...',
           description: "",
-          section: "News",},{id: "news-first-author-paper-on-generating-and-validating-erroneous-examples-in-cs1-using-llms-has-been-accepted-to-aied-2026",
+          section: "News",},{id: "news-first-author-paper-on-generating-and-validating-erroneous-examples-in-cs1-using-llms-has-been-accepted-to-aied-2026-i-will-be-going-to-seoul-to-present-as-well",
           title: 'First author paper “On Generating and Validating Erroneous Examples in CS1 using LLMs”...',
           description: "",
           section: "News",},{id: "news-i-have-accepted-an-offer-to-join-the-phd-program-in-computer-science-at-the-university-of-illinois-urbana-champaign",
