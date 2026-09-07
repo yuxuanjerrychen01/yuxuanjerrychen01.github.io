@@ -22,7 +22,7 @@ announcements:
   limit: # leave blank to include all the news in the `_news` folder
 ---
 
-I am a Master of Science student in the Siebel School of Computing and Data Science at the University of Illinois Urbana-Champaign (UIUC) as of Fall 2024. My interests are at the intersections of Human-Computer Interaction and AI in education. I am a part of the [Computing Education Research Area](https://siebelschool.illinois.edu/research/areas/computers-and-education) at UIUC, and my advisor is [Mariana Silva](https://mfsilva22.github.io/). I will begin my PhD program in Fall 2026.
+I am a first-year PhD student in the Siebel School of Computing and Data Science at the University of Illinois Urbana-Champaign (UIUC), starting in Fall 2026. My interests are at the intersections of Human-Computer Interaction and AI in education. I am a part of the [Computing Education Research Area](https://siebelschool.illinois.edu/research/areas/computers-and-education) at UIUC, and my advisor is [Mariana Silva](https://mfsilva22.github.io/).
 
 My current research interests center on enhancing learning experiences in introductory CS courses for engineering students. I am exploring the integration of LLMs to generate erroneous programming examples in CS1 context. In addition, I am designing learner-centered educational tools to support undergraduate conversational programmers.
 
