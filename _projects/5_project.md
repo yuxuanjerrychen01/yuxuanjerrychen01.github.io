@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bouldering
-description: Currently at V4
+description: Currently at V4~V5
 img: assets/img/ub.jpg
 importance: 3
 category: fun
@@ -57,3 +57,7 @@ First successful V4!
 #### Feb 10, 2026
 
 Able to deliver several V4s now. I have been training my grip hold.
+
+#### Aug 31, 2026
+
+Accomplished my first V5 (purple) at Urbana Boulders.

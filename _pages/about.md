@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. CS student @ UIUC, Cofounder @ AristAI
+subtitle: Phd student in CS @ UIUC, Cofounder @ AristAI
 
 profile:
   align: right
